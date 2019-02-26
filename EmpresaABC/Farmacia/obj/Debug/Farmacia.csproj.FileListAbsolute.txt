@@ -1,0 +1,10 @@
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmTestevariavel.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmLogin.resources

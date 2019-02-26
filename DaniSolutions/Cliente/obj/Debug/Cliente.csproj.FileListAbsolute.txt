@@ -1,0 +1,14 @@
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.frmLogin.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\bin\Debug\Cliente.exe
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\bin\Debug\Cliente.pdb
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.exe
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.pdb
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.frmMenuPrincipal.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.frmFornecedores.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.Funcionários.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.frmUsuário.resources
+C:\Users\danilo.asantos18\Documents\ProjetoCSharp\DaniSolutions\Cliente\obj\Debug\Cliente.frmProdutos.resources
